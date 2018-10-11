@@ -30,4 +30,4 @@ def get_all_the_emails_of_val_doise_townhalls(website_url, page)
 end
 
 puts get_the_email_of_a_townhal_from_its_webpage("http://annuaire-des-mairies.com/95/vaureal.html")
-puts get_all_the_emails_of_val_doise_townhalls("http://annuaire-des-mairies.com/", "val-d-oise.html")
+puts get_all_the_emails_of_val_doise_townhalls("http://annuaire-des-mairies.com/", "val-d-oise.html"))
